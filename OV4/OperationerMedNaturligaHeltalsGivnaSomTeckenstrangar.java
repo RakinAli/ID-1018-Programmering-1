@@ -1,4 +1,4 @@
-package OV4;
+package Ov4;
 import java.util.*; // Scanner
 import static java.lang.System.out;
 
